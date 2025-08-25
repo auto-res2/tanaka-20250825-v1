@@ -6,5 +6,52 @@
     "State space diffusion",
     "Mamba diffusion",
     "U-Net diffusion architecture"
+  ],
+  "research_study_list": [
+    {
+      "title": "Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers"
+    },
+    {
+      "title": "Functional Diffusion"
+    },
+    {
+      "title": "U-DiTs: Downsample Tokens in U-Shaped Diffusion Transformers"
+    },
+    {
+      "title": "Solving Linear Inverse Problems Provably via Posterior Sampling with Latent Diffusion Models"
+    },
+    {
+      "title": "Latent Diffusion for Language Generation"
+    },
+    {
+      "title": "InfoDiffusion: Representation Learning Using Information Maximizing Diffusion Models"
+    },
+    {
+      "title": "Diffusion Models Without Attention"
+    },
+    {
+      "title": "Stochastic Optimal Control for Diffusion Bridges in Function Spaces"
+    },
+    {
+      "title": "Blackout Diffusion: Generative Diffusion Models in Discrete-State Spaces"
+    },
+    {
+      "title": "Vision Mamba Mender"
+    },
+    {
+      "title": "Alias-Free Mamba Neural Operator"
+    },
+    {
+      "title": "MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models"
+    },
+    {
+      "title": "A Unified Framework for U-Net Design and Analysis"
+    },
+    {
+      "title": "U-DiTs: Downsample Tokens in U-Shaped Diffusion Transformers"
+    },
+    {
+      "title": "All Are Worth Words: A ViT Backbone for Diffusion Models"
+    }
   ]
 }
